@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Illustration of a smart classroom with an interactive board">
+  <rect width="1200" height="800" fill="#dce9f3"/>
+  <rect x="0" y="560" width="1200" height="240" fill="#cddae4"/>
+  <rect x="110" y="130" width="470" height="260" rx="12" fill="#0f4c81"/>
+  <rect x="118" y="138" width="454" height="244" rx="8" fill="#124a7d"/>
+  <rect x="140" y="176" width="180" height="14" rx="7" fill="#eaf2f8" opacity="0.85"/>
+  <rect x="140" y="212" width="300" height="14" rx="7" fill="#eaf2f8" opacity="0.6"/>
+  <rect x="140" y="248" width="240" height="14" rx="7" fill="#eaf2f8" opacity="0.6"/>
+  <rect x="140" y="300" width="150" height="14" rx="7" fill="#d4af37"/>
+  <rect x="700" y="120" width="420" height="280" rx="12" fill="#ffffff" stroke="#0f4c81" stroke-width="12"/>
+  <rect x="732" y="158" width="160" height="16" rx="8" fill="#3b82f6"/>
+  <rect x="732" y="196" width="250" height="16" rx="8" fill="#9cc3e6"/>
+  <rect x="732" y="234" width="200" height="16" rx="8" fill="#9cc3e6"/>
+  <rect x="732" y="272" width="280" height="16" rx="8" fill="#d4af37"/>
+  <circle cx="644" cy="300" r="30" fill="#0b3a63"/>
+  <circle cx="700" cy="480" r="8" fill="#0f4c81"/>
+  <g fill="#c98b4b">
+    <rect x="120" y="560" width="220" height="26" rx="8"/>
+    <rect x="480" y="560" width="220" height="26" rx="8"/>
+    <rect x="840" y="560" width="220" height="26" rx="8"/>
+  </g>
+  <g fill="#a9702f">
+    <rect x="150" y="586" width="16" height="80"/>
+    <rect x="294" y="586" width="16" height="80"/>
+    <rect x="510" y="586" width="16" height="80"/>
+    <rect x="654" y="586" width="16" height="80"/>
+    <rect x="870" y="586" width="16" height="80"/>
+    <rect x="1014" y="586" width="16" height="80"/>
+  </g>
+  <g fill="#0f4c81" opacity="0.9">
+    <circle cx="200" cy="520" r="26"/>
+    <rect x="176" y="548" width="48" height="14" rx="7"/>
+    <circle cx="560" cy="520" r="26"/>
+    <rect x="536" y="548" width="48" height="14" rx="7"/>
+    <circle cx="920" cy="520" r="26"/>
+    <rect x="896" y="548" width="48" height="14" rx="7"/>
+  </g>
+</svg>

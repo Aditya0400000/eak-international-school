@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Illustration of the EAK International School courtyard and academic wings">
+  <rect width="1200" height="900" fill="#eaf2f8"/>
+  <circle cx="980" cy="170" r="120" fill="#f7e7b0" opacity="0.5"/>
+  <circle cx="980" cy="170" r="74" fill="#f2d675"/>
+  <ellipse cx="250" cy="150" rx="100" ry="40" fill="#ffffff" opacity="0.9"/>
+  <path d="M0 640 Q 300 580 600 620 T 1200 610 L1200 900 L0 900 Z" fill="#d7e7dc"/>
+  <path d="M0 700 Q 350 650 700 700 T 1200 690 L1200 900 L0 900 Z" fill="#c8ddd0"/>
+  <path d="M600 660 L500 900 L700 900 Z" fill="#e3ecf2"/>
+  <rect x="60" y="300" width="380" height="360" fill="#0f4c81"/>
+  <rect x="40" y="276" width="420" height="36" rx="5" fill="#0b3a63"/>
+  <polygon points="250,180 460,276 40,276" fill="#0b3a63"/>
+  <rect x="40" y="276" width="420" height="10" rx="4" fill="#d4af37"/>
+  <rect x="760" y="300" width="380" height="360" fill="#0f4c81"/>
+  <rect x="740" y="276" width="420" height="36" rx="5" fill="#0b3a63"/>
+  <polygon points="950,180 1160,276 740,276" fill="#0b3a63"/>
+  <rect x="740" y="276" width="420" height="10" rx="4" fill="#d4af37"/>
+  <rect x="440" y="430" width="320" height="230" fill="#0b3a63"/>
+  <rect x="440" y="430" width="320" height="12" fill="#d4af37"/>
+  <rect x="512" y="466" width="176" height="56" rx="6" fill="#123f66"/>
+  <rect x="530" y="560" width="140" height="100" rx="70" fill="#3b82f6"/>
+  <g fill="#a9cbe8">
+    <rect x="110" y="356" width="80" height="66" rx="6"/>
+    <rect x="230" y="356" width="80" height="66" rx="6"/>
+    <rect x="350" y="356" width="80" height="66" rx="6"/>
+    <rect x="110" y="466" width="80" height="66" rx="6"/>
+    <rect x="230" y="466" width="80" height="66" rx="6"/>
+    <rect x="350" y="466" width="80" height="66" rx="6"/>
+  </g>
+  <g fill="#8fbde3">
+    <rect x="770" y="356" width="80" height="66" rx="6"/>
+    <rect x="890" y="356" width="80" height="66" rx="6"/>
+    <rect x="1010" y="356" width="80" height="66" rx="6"/>
+    <rect x="770" y="466" width="80" height="66" rx="6"/>
+    <rect x="890" y="466" width="80" height="66" rx="6"/>
+    <rect x="1010" y="466" width="80" height="66" rx="6"/>
+  </g>
+  <g>
+    <rect x="160" y="700" width="14" height="70" rx="6" fill="#8a6a4a"/>
+    <circle cx="167" cy="672" r="54" fill="#7fb08a"/>
+  </g>
+  <g>
+    <rect x="1010" y="700" width="14" height="70" rx="6" fill="#8a6a4a"/>
+    <circle cx="1017" cy="672" r="54" fill="#7fb08a"/>
+  </g>
+  <rect x="360" y="740" width="90" height="12" rx="4" fill="#c98b4b"/>
+  <rect x="380" y="752" width="8" height="18" fill="#a9702f"/>
+  <rect x="422" y="752" width="8" height="18" fill="#a9702f"/>
+  <rect x="750" y="740" width="90" height="12" rx="4" fill="#c98b4b"/>
+  <rect x="770" y="752" width="8" height="18" fill="#a9702f"/>
+  <rect x="812" y="752" width="8" height="18" fill="#a9702f"/>
+</svg>

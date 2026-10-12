@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Placeholder image for EAK International School">
+  <rect width="800" height="600" fill="#f4f6f8"/>
+  <rect x="24" y="24" width="752" height="552" rx="24" fill="none" stroke="#d4af37" stroke-width="4" stroke-dasharray="16 14"/>
+  <g transform="translate(400 250)">
+    <path d="M-90 -6 L0 -56 L90 -6 Z" fill="#0f4c81"/>
+    <rect x="-90" y="-6" width="180" height="20" rx="6" fill="#0b3a63"/>
+    <rect x="-14" y="14" width="28" height="70" rx="6" fill="#0f4c81"/>
+  </g>
+  <text x="400" y="430" text-anchor="middle" font-family="Poppins, system-ui, sans-serif" font-size="34" font-weight="600" fill="#0f4c81">EAK International School</text>
+  <text x="400" y="472" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#4b5563">Image coming soon</text>
+</svg>
