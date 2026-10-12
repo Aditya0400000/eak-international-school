@@ -2,8 +2,8 @@
 
 **Frontend Development Assignment — EAK Pustak Pvt. Ltd.**
 
-**Live Demo:** [Add Vercel URL after deployment]  
-**GitHub Repository:** [Add GitHub URL after publishing]
+**Live Demo:** [eak-international-school-liart.vercel.app]  
+**GitHub Repository:** [https://github.com/Aditya0400000/eak-international-school.git]
 
 ## About the Project
 
